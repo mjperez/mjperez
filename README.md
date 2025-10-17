@@ -5,7 +5,7 @@ Soy una estudiante de Analista Programador con una profunda pasión por la tecno
 ---
 
 #### 🌱 Actualmente estoy aprendiendo:
-* Programación Orientada a Objetos (Java/Python)
+* Programación Orientada a Objetos (Python)
 * Arquitectura y servicios fundamentales de AWS.
 * Metodologías de desarrollo ágil.
 
