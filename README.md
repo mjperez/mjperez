@@ -1,4 +1,4 @@
-### 👋 ¡Hola! Soy María Jesús Pérez Casasbellas
+### 👋 ¡Hola! Soy María Jesús Pérez
 
 Soy una estudiante de Analista Programador con una profunda pasión por la tecnología y la resolución de problemas. Mi objetivo es especializarme en la arquitectura de soluciones en la nube y la automatización de infraestructura.
 
