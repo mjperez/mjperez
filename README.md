@@ -1,32 +1,38 @@
-### 👋 ¡Hola! Soy María Jesús Pérez
+# María Jesús Pérez
 
-Soy una estudiante de Analista Programador con una profunda pasión por la tecnología y la resolución de problemas. Mi objetivo es especializarme en la arquitectura de soluciones en la nube y la automatización de infraestructura.
+### Software Developer | Backend & Cloud Infrastructure
+
+Desarrolladora enfocada en la **arquitectura de soluciones escalables** y la automatización de procesos. Combino lógica de programación robusta con una visión operativa orientada a la nube (AWS).
 
 ---
 
-#### 🌱 Actualmente estoy aprendiendo:
-* Programación Orientada a Objetos (Python)
-* Arquitectura y servicios fundamentales de AWS.
-* Metodologías de desarrollo ágil.
+### 🛠 Tech Stack & Tools
 
-#### 🎯 Mis Metas a Corto Plazo (Q4 2025):
-1.  Obtener la certificación **AWS Certified Cloud Practitioner**.
-2.  Construir un portafolio sólido de proyectos backend y cloud.
-3.  Dominar los fundamentos de Linux y la línea de comandos.
+* **Core Development:**
+  * Python (OOP, Scripting, Automation)
+  * SQL (Database Logic)
+  
+* **Infrastructure & Cloud:**
+  * AWS Fundamentals (EC2, S3, IAM)
+  * Linux Environment (Bash Scripting)
+  * Server Management Concepts
 
-#### 📫 Cómo contactarme:
-* **LinkedIn:** [in/mariajperezc](https://www.linkedin.com/in/mariajperezc/)
-<!--
-**mjperez/mjperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Methodologies:**
+  * Agile Development
+  * Git Flow & Version Control
+  * CI/CD Concepts
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Roadmap & Current Focus (Q4 2025)
+
+* ☁️ **Certification:** Preparación técnica intensiva para **AWS Certified Cloud Practitioner**.
+* 🏗️ **Development:** Construcción de portafolio backend con énfasis en *Clean Architecture* y buenas prácticas.
+* 🐧 **Upskilling:** Profundización en administración de sistemas Linux y Scripting avanzado.
+
+---
+
+### 📫 Connect
+
+* **LinkedIn:** [linkedin.com/in/mariajperezc](https://www.linkedin.com/in/mariajperezc)
+* **Focus:** Disponible para colaboraciones técnicas en proyectos de automatización y backend.
